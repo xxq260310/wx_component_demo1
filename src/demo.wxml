@@ -1,0 +1,3 @@
+<view class="demo_btn_wrap" bind:tap="onClick">
+  <slot />
+</view>

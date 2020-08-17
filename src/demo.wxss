@@ -1,0 +1,7 @@
+.demo_btn_wrap {
+  width: 20px;
+  height: 20px;
+  background-color: #ddd;
+  color: black;
+  font-size: 14px;
+}
